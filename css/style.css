@@ -1,0 +1,46 @@
+body {
+    background-color: #87515E;
+}
+
+.hero {
+    background-image: url(../assets/images/hero.jpg);
+    background-size: cover;
+    /* background-position: center; */
+    height: 70vh;
+}
+
+.hero-nd {
+    background-image: url(../assets/images/hero-nd.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+}
+
+.p1{
+    text-decoration: none;
+    background-image: url(../assets/images/img1.jpeg);
+    background-size: cover;
+    content: "";
+    height: 15vh;
+}
+.p2{
+    text-decoration: none;
+    background-image: url(../assets/images/img2.jpg);
+    background-size: cover;
+    content: "";
+    height: 15vh;
+}
+.p3{
+    text-decoration: none;
+    background-image: url(../assets/images/img3.jpg);
+    background-size: cover;
+    content: "";
+    height: 15vh;
+}
+.p4{
+    text-decoration: none;
+    background-image: url(../assets/images/img4.jpg);
+    background-size: cover;
+    content: "";
+    height: 15vh;
+}
